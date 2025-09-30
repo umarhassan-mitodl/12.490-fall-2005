@@ -5,6 +5,8 @@ description: The purpose of this laboratory is to get acquainted with the variou
 file: /courses/12-490-advanced-igneous-petrology-fall-2005/6742c0a36ba0b8a3d71befe026b88b64_undersat_lab4.pdf
 file_size: 65384
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
